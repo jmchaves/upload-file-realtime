@@ -4,9 +4,11 @@
 
 
 To run this demo, go to the folder upload-file-realtime and type the following command:
+
 $ npm install
 
 Then:
+
 $ node index
 
 It is going to run in http://localhost:3000
