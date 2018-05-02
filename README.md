@@ -1,4 +1,6 @@
-## upload-file-realtime
+## Upload file in realtime
+
+### It allows to upload a file and generate a link to download it. If the file was downloaded, it will indicate in real time.
 
 
 To run this demo, go to the folder upload-file-realtime and type the following command:
